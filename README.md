@@ -2,8 +2,6 @@
 
 https://www.youtube.com/watch?v=mOetI-2CCSk&list=PL1un2swkxGA-RikUteoGOKL9yhBAyye-U
 
-info init:
-
 # Run Project
 
 Before run project, start use yarn install or only yarn
