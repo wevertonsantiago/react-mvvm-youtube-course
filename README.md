@@ -2,6 +2,20 @@
 
 https://www.youtube.com/watch?v=mOetI-2CCSk&list=PL1un2swkxGA-RikUteoGOKL9yhBAyye-U
 
+info init:
+
+# Run Project
+
+Before run project, start use yarn install or only yarn
+wait download all depencencies and
+run projetc yarn dev
+
+# We could do better! Info
+
+This code is the basis of the React MVVM project.
+You could make it more powerful and scalable.
+But be careful! Don't change this code base unless absolutely necessary in your project
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
